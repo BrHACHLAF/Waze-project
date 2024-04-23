@@ -1,5 +1,3 @@
-Waze-Project
+###Waze-Project
 
-References:
-
-1- This project and data are part from Google Advanced Data Analytics Professional Certificate.
+1 - References: This project and its data are part of the Google Advanced Data Analytics Professional Certificate.
